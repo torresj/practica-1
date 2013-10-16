@@ -57,7 +57,7 @@
 				foreach ($_POST['ejercicios'] as $ejercicio) {
 			
 					//obtenemos los objetivos que se cumplen consultando la base de datos
-					$consultaSQL = 'SELECT * FROM  `elpaisano`.`ejercicios` WHERE  `ejercicio` ='.$ejercicio;
+					$consultaSQL = 'SELECT * FROM  `generadordeobjetivos`.`ejercicios` WHERE  `ejercicio` ='.$ejercicio;
 					
 					//ejecutamos la consulta
 					try { 
