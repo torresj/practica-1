@@ -64,7 +64,7 @@ futuro para añadir el resto de temas y objetivos.
 
 ### Direccion de la aplicacion
 
-	*Aplicacion: http://generadordeobjetivos-gii.rhcloud.com/
+	*Aplicacion: [http://generadordeobjetivos-gii.rhcloud.com](http://generadordeobjetivos-gii.rhcloud.com)
 	*Practica: https://github.com/torresj/practica-1
 	*Documentación: https://github.com/torresj/practica-1/blob/master/documentacion/documentacion.md
 
