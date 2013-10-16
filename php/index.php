@@ -9,6 +9,7 @@
 	</head>
 	<body>
 		<h1>GENERADOR DE ARCHIVOS DE OBJETIVO</h1>
+		<section>
 		<h3>Seleccione los ejercicios realizados</h3>
 		<form action="index.php" method="POST">
 			<ul>
@@ -115,5 +116,6 @@
 				header('Location:files/descargar.php');
 			}
 		?>
+		</section>
 	</body>
 </html>

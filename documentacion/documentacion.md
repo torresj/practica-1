@@ -48,3 +48,11 @@ Una vez tengo los objetivos, recorro un documento que tiene ya todos los objetiv
 Cuando se marcan todos se fuerza una descarga del documento cuyo nombre es 'objetivos.md'.
 El código es corto y esta comentado por lo que no se detalla mas en este documento. 
 
+
+
+###Biliografía
+	
+	* https://www.openshift.com/developers/rhc-client-tools-install
+	* http://xmeele.wordpress.com/2013/03/27/guia-completa-de-openshift-de-red-hat-para-principiantes-windows/
+	* http://www.php.net/manual/es/
+	* http://diariolinux.com/2012/01/25/openshift-computacion-gratuita-en-la-nube-de-redhat/
