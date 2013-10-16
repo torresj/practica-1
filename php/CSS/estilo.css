@@ -35,7 +35,7 @@ h2 {
 	text-align: justify;
 }
 
-section {
+#marco {
 	float:left;
 	width: 50%;
 	margin:1% 25% 2% 25%;
@@ -47,6 +47,17 @@ h3 {
 	width: 100%;
 	text-align: center;
 	color: white;
+}
+
+#tema1 {
+	float:left;
+	width: 20%;
+}
+#tema2 {
+	float:left;
+	width: 20%;
+	margin-left: 15%;
+	padding-bottom: 35%;
 }
 
 h6 {
