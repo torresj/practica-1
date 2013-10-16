@@ -62,6 +62,12 @@ En la siguiente imagen podemos ver el aspecto de la aplicacion.
 En principio solo estan reflejados los ejercicios y objetivos de los dos primeros temas aunque es muy facil hacer una ampliación en el
 futuro para añadir el resto de temas y objetivos.
 
+### Direccion de la aplicacion
+
+	*Aplicacion: http://generadordeobjetivos-gii.rhcloud.com/
+	*Practica: https://github.com/torresj/practica-1
+	*Documentación: https://github.com/torresj/practica-1/blob/master/documentacion/documentacion.md
+
 ###Biliografía
 	
 	* https://www.openshift.com/developers/rhc-client-tools-install
