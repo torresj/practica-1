@@ -48,7 +48,12 @@ Una vez tengo los objetivos, recorro un documento que tiene ya todos los objetiv
 Cuando se marcan todos se fuerza una descarga del documento cuyo nombre es 'objetivos.md'.
 El código es corto y esta comentado por lo que no se detalla mas en este documento. 
 
+En la siguiente imagen podemos ver el aspecto de la aplicacion.
 
+![captura](https://dl.dropboxusercontent.com/u/17453375/aplicacion.png)
+
+En principio solo estan reflejados los ejercicios y objetivos de los dos primeros temas aunque es muy facil hacer una ampliación en el
+futuro para añadir el resto de temas y objetivos.
 
 ###Biliografía
 	
