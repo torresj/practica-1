@@ -64,13 +64,14 @@ futuro para añadir el resto de temas y objetivos.
 
 ### Direccion de la aplicacion
 
-	*Aplicacion: [http://generadordeobjetivos-gii.rhcloud.com](http://generadordeobjetivos-gii.rhcloud.com)
-	*Practica: https://github.com/torresj/practica-1
-	*Documentación: https://github.com/torresj/practica-1/blob/master/documentacion/documentacion.md
+*Aplicacion: [http://generadordeobjetivos-gii.rhcloud.com/](http://generadordeobjetivos-gii.rhcloud.com/) 
+*Practica: [https://github.com/torresj/practica-1](https://github.com/torresj/practica-1)
+*Documentación: [https://github.com/torresj/practica-1/blob/master/documentacion/documentacion.md](https://github.com/torresj/practica-1/blob/master/documentacion/documentacion.md)
 
 ###Biliografía
 	
-	* https://www.openshift.com/developers/rhc-client-tools-install
-	* http://xmeele.wordpress.com/2013/03/27/guia-completa-de-openshift-de-red-hat-para-principiantes-windows/
-	* http://www.php.net/manual/es/
-	* http://diariolinux.com/2012/01/25/openshift-computacion-gratuita-en-la-nube-de-redhat/
+* [https://www.openshift.com/developers/rhc-client-tools-install](https://www.openshift.com/developers/rhc-client-tools-install)
+* [http://xmeele.wordpress.com/2013/03/27/guia-completa-de-openshift-de-red-hat-para-principiantes-windows/](http://xmeele.wordpress.com/2013/03/27/guia-completa-de-openshift-de-red-hat-para-principiantes-windows/)
+* [http://www.php.net/manual/es/](http://www.php.net/manual/es/)
+* [http://diariolinux.com/2012/01/25/openshift-computacion-gratuita-en-la-nube-de-redhat/](http://diariolinux.com/2012/01/25/openshift-computacion-gratuita-en-la-nube-de-redhat/)
+
