@@ -36,7 +36,14 @@ Estos datos los obtenemos con cualqueira de las dos opciones anteriores. Para la
 'rhc port-forward -a nombredelaapp'.
 
 Para descargar la aplicacion usamos git clone y la direccion ssh mencionada anteriormente y se nos clonará en la carpeta que estemos.
-Para el desarrollo de la aplicacion solo tenemos que usar git add, git commit o git push tal y como ya conocemos.
+Para el desarrollo de la aplicacion solo tenemos que usar git add, git commit o git push tal y como ya conocemos. Ademas, creamos un 
+repositorio en github obtenemos la direccion ssh y usamos las siguentes ordenes:
+
+	git remote add 'alias' 'direccion ssh'
+	git push 'alias' master
+
+Con esto subimos al repositorio que queramos cambiando origin por el alias para enviarlo al repositorio de openshift o al repositorio
+que acabamos de crear en github.
 
 ### Implementación de la aplicación
 
