@@ -8,12 +8,14 @@
 	   <meta name="description" content="Prueba">
 	</head>
 	<body>
-		<h1>GENERADOR DE ARCHIVOS DE OBJETIVO</h1>
-		<section>
+		<h1>GENERADOR DE ARCHIVO DE OBJETIVOS</h1>
+		<h2>Aplicación para ayudar a los alumnos de la asignatura de Infraestructura Virtual a generar sus ficheros de objetivos</h2>
+		<section id="marco">
 		<h3>Seleccione los ejercicios realizados</h3>
 		<form action="index.php" method="POST">
 			<ul>
-				<li><h6>TEMA </h6></li>
+				<section id="tema1">
+				<li><h6>TEMA 1</h6></li>
 				<li><input type="checkbox" name="ejercicios[]" value="1">Ejercicio 1</li>
 				<li><input type="checkbox" name="ejercicios[]" value="2">Ejercicio 2</li>
 				<li><input type="checkbox" name="ejercicios[]" value="3">Ejercicio 3</li>
@@ -29,6 +31,16 @@
 				<li><input type="checkbox" name="ejercicios[]" value="13">Ejercicio 13</li>
 				<li><input type="checkbox" name="ejercicios[]" value="14">Ejercicio 14</li>
 				<li><input type="checkbox" name="ejercicios[]" value="15">Practica 1</li>
+				</section>
+				<section id="tema2">
+				<li><h6>TEMA 2</h6></li>
+				<li><input type="checkbox" name="ejercicios[]" value="16">Ejercicio 1</li>
+				<li><input type="checkbox" name="ejercicios[]" value="17">Ejercicio 2</li>
+				<li><input type="checkbox" name="ejercicios[]" value="18">Ejercicio 3</li>
+				<li><input type="checkbox" name="ejercicios[]" value="19">Ejercicio 4</li>
+				<li><input type="checkbox" name="ejercicios[]" value="20">Ejercicio 5</li>
+				<li><input type="checkbox" name="ejercicios[]" value="21">Ejercicio 6</li>
+				</section>
 				<li><input type="submit" id="enviar" value="Generar archivo"/></li>
 			</ul>
 		</form>
