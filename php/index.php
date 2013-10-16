@@ -12,6 +12,7 @@
 		<h3>Seleccione los ejercicios realizados</h3>
 		<form action="index.php" method="POST">
 			<ul>
+				<li><h6>TEMA 1</h6></li>
 				<li><input type="checkbox" name="ejercicios[]" value="1">Ejercicio 1</li>
 				<li><input type="checkbox" name="ejercicios[]" value="2">Ejercicio 2</li>
 				<li><input type="checkbox" name="ejercicios[]" value="3">Ejercicio 3</li>
