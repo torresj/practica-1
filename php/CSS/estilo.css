@@ -125,3 +125,14 @@ form ul li{
 	color:white;
 	margin: 0.5%;
 }
+
+p {
+	float:right;
+	color: white;
+	font-size: 1.2em;
+}
+
+a {
+
+	color:red;
+}

@@ -62,6 +62,7 @@
 				<li><input type="submit" id="enviar" value="Generar archivo"/></li>
 			</ul>
 		</form>
+
 		<?php
 			$dsn = "mysql:host=127.3.193.130;port:3306;dbname=generadordeobjetivos";
 			$usuario= "adminRX1aPbt";
@@ -147,5 +148,6 @@
 			}
 		?>
 		</section>
+		<p>Imagen obtenida de <a href="http://nacidoparacuriosear.blogspot.com.es/2012/10/almacenamiento-en-cristales-datos-para.html">este blog</a>.</p>
 	</body>
 </html>
