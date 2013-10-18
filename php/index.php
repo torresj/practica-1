@@ -62,7 +62,6 @@
 				<li><input type="submit" id="enviar" value="Generar archivo"/></li>
 			</ul>
 		</form>
-
 		<?php
 			$dsn = "mysql:host=127.3.193.130;port:3306;dbname=generadordeobjetivos";
 			$usuario= "adminRX1aPbt";
