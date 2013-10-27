@@ -53,7 +53,7 @@ Lista de objetivos de la clase 18/10/2013
 
 []  Entregar la práctica.
 
-[]  Conocer el concurso universitario de software libre
+[x] Conocer el concurso universitario de software libre
 
 Lista de objetivos de la clase 21/10/2013
 -----------------------------------------

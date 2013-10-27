@@ -48,8 +48,14 @@ Lista de objetivos de la clase 14/10/2013
 
 []  Entender los mecanismos de creación y despliegue de aplicaciones en un PaaS
 
-
 Lista de objetivos de la clase 18/10/2013
+-----------------------------------------
+
+[]  Entregar la práctica.
+
+[]  Conocer el concurso universitario de software libre
+
+Lista de objetivos de la clase 21/10/2013
 -----------------------------------------
 
 []  Entender los objetivos de este segundo tema.
@@ -61,7 +67,7 @@ Lista de objetivos de la clase 18/10/2013
 []  Entender y saber llevar a cabo la virtualización de dispositivos de red
 
 
-Lista de objetivos de la clase 21/10/2013
+Lista de objetivos de la clase 25/10/2013
 -----------------------------------------
 
 []  Aprender a instalar una máquina virtual sin necesidad de usar una imagen.
@@ -69,10 +75,11 @@ Lista de objetivos de la clase 21/10/2013
 []  Usar esos conocimientos en la configuración de una jaula chroot.
 
 
-Lista de objetivos de la clase 25/10/2013
+Lista de objetivos de la clase 28/10/2013
 -----------------------------------------
 
 []  Usar herramientas específicas para configurar una jaula chroot y conocer herramientas similares para otros sistemas operativos.
 
 []  Aprender a enjaular usuarios
+
 
